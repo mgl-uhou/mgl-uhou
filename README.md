@@ -13,6 +13,7 @@
 - Backend Developer
 - Student
 - Looking for a first job or internship
+- I'm currently studying TypeScript and Testing
 
 ###
 
