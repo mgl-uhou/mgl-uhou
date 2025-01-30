@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">- Backend Developer<br>- Student<br>- Looking for a first job or internship</p>
+- Backend Developer
+- Student
+- Looking for a first job or internship
 
 ###
 
