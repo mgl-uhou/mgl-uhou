@@ -46,3 +46,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/mgl-uhou/mgl-uhou/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mgl-uhou&repo=mgl-uhou&theme=dracula)](https://github.com/mgl-uhou/mgo-uhou)
