@@ -47,6 +47,6 @@
 
 ###
 
-![Snake animation](https://github.com/mgl-uhou/mgl-uhou/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mgl-uhou/mgl-uhou/blob/main/assets/github-contribution-grid-snake.svg)
 
 ###
