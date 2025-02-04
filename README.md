@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">🤓 Contacts</h2>
+<h6 align="left">🤓 Contacts</h6>
 
 ###
 
