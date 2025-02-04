@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create assets directory
+        run: mkdir -p assets
+
       - name: Generate Snake
         uses: Platane/snk@master
         with:
