@@ -22,6 +22,7 @@
 
 - TypeScript
 - Testings
+- Docker
 
 ###
 
@@ -29,8 +30,8 @@
 
 ###
 
-- Docker
 - Java
+- Mobile Development
 
 ###
 
