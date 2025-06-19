@@ -20,9 +20,8 @@
 
 ###
 
-- TypeScript
+- Kotlin
 - Testings
-- Docker
 
 ###
 
@@ -30,8 +29,8 @@
 
 ###
 
-- Java
-- Mobile Development
+- Android Development
+- Docker
 
 ###
 
