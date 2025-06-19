@@ -77,9 +77,6 @@
   <a href="https://www.linkedin.com/in/mgl-uhou/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/mgl_uhou" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo"  />
-  </a>
   <a href="mailto:miguelferreiralaurentino@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo"  />
   </a>
