@@ -21,7 +21,7 @@
 ###
 
 - Kotlin
-- Testings
+- Android Development
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-- Android Development
+- Testing
 - Docker
 
 ###
