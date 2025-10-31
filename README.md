@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Miguel Laurentino, a student on the technical course in System Development by Federal Institute of Alagoas.</p>
+<p align="left">I'm Miguel Laurentino, a student on the technical course in System Development by the Instituto Federal de Alagoas.</p>
 
 ###
 
@@ -11,8 +11,9 @@
 ###
 
 - Backend Developer
+- Android Developer
 - Student
-- Looking for a first job or internship
+- Looking for a opportunity as a developer
 
 ###
 
@@ -22,6 +23,8 @@
 
 - Kotlin
 - Android Development
+- Compose
+- Coroutines
 
 ###
 
