@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Miguel Laurentino, a student on the technical course in System Development by the Instituto Federal de Alagoas.</p>
+<p align="left">I'm Miguel Laurentino, a student on Information Systems Bachelor by the Instituto Federal de Alagoas.</p>
 
 ###
 
@@ -11,7 +11,6 @@
 ###
 
 - Backend Developer
-- Android Developer
 - Student
 - Looking for a opportunity as a developer
 
@@ -21,10 +20,7 @@
 
 ###
 
-- Kotlin
-- Android Development
-- Compose
-- Coroutines
+- Python
 
 ###
 
@@ -32,8 +28,9 @@
 
 ###
 
-- Testing
+- Django
 - Docker
+- Testing
 
 ###
 
@@ -49,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
 ###
